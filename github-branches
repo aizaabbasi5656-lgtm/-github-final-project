@@ -1,1 +1,4 @@
-github-branches
+$ git branch
+* main
+  bug-fix-typo
+  bug-fix-revert
